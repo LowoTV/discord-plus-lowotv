@@ -31,11 +31,12 @@
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
+   
 /* Background color: Covers the backdrop so the app is easier to read. */
-  --dplus-background-color-hue: 320;
+  --dplus-background-color-hue: 91;
   --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.8;
+  --dplus-background-color-lightness-amount: 0.17;
+  --dplus-background-color-alpha: 0.75;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -60,9 +61,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Poppins';
-  --dplus-font-body: 'Roboto';
-  --dplus-font-header: 'Righteous';
+  --dplus-font-ui: 'Minecraft';
+  --dplus-font-body: 'Minecraft';
+  --dplus-font-header: 'Minecraft';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
